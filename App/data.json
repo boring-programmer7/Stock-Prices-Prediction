@@ -1,0 +1,76 @@
+{
+    "models": [
+        {
+            "corp": "Apple",
+            "name": "AAPL",
+            "startTraining": "2015-01-01",
+            "endTraining": "2019-11-29",
+            "n_rows": 1236,
+            "model": "AAPL.h5",
+            "rmse": 2.914483412750838
+        },
+        {
+            "corp": "Amazon",
+            "name": "AMZN",
+            "startTraining": "2015-01-01",
+            "endTraining": "2019-11-29",
+            "n_rows": 1236,
+            "model": "AMZN.h5",
+            "rmse": 65.93855267643694
+        },
+        {
+            "corp": "Ecopetrol",
+            "name": "EC",
+            "startTraining": "2015-01-01",
+            "endTraining": "2019-11-29",
+            "n_rows": 1236,
+            "model": "EC.h5",
+            "rmse": 0.8380447972821697
+        },
+        {
+            "corp": "Bancolombia",
+            "name": "CIB",
+            "startTraining": "2015-01-01",
+            "endTraining": "2019-11-29",
+            "n_rows": 1236,
+            "model": "CIB.h5",
+            "rmse": 1.7333407165094503
+        },
+        {
+            "corp": "Netflix",
+            "name": "NFLX",
+            "startTraining": "2015-01-01",
+            "endTraining": "2019-11-29",
+            "n_rows": 1236,
+            "model": "NFLX.h5",
+            "rmse": 19.837139962355188
+        },
+        {
+            "corp": "Facebook",
+            "name": "FB",
+            "startTraining": "2015-01-01",
+            "endTraining": "2019-11-29",
+            "n_rows": 1236,
+            "model": "FB.h5",
+            "rmse": 8.572490617347103
+        },
+        {
+            "corp": "Facebook",
+            "name": "FB",
+            "startTraining": "2015-01-01",
+            "endTraining": "2019-11-29",
+            "n_rows": 1236,
+            "model": "FB.h5",
+            "rmse": 10.897242726808155
+        },
+        {
+            "corp": "Facebook",
+            "name": "FB",
+            "startTraining": "2015-01-01",
+            "endTraining": "2019-11-29",
+            "n_rows": 1236,
+            "model": "FB.h5",
+            "rmse": 7.265686546270244
+        }
+    ]
+}
